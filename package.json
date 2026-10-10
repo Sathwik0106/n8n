@@ -1,0 +1,21 @@
+{
+  "name": "sathwik-architecture-studio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Architectural portfolio website for Ar. Sathwik Reddy — Works, Tectonics & Spatial Form",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "keywords": [
+    "architecture",
+    "portfolio",
+    "spatial-design",
+    "vite",
+    "react",
+    "tailwind"
+  ],
+  "author": "Ar. Sathwik Reddy",
+  "license": "MIT"
+}
